@@ -17,5 +17,6 @@ public class question_3 {
 
         }
         System.out.println("the largest number is : "+ largest);
+        sc.close();
     }
 }
